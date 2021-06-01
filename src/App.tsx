@@ -8,7 +8,7 @@ import Usuarios from './components/Usuarios';
 const  App = () => {
   return (
     <div className="mt-2">
-      <h1>Introduccion a Typescript v2</h1>
+      <h1>Cambio de nombre prueba git</h1>
       <hr/>
       <TiposBasicos/>
       <hr/>
